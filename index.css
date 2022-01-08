@@ -1,0 +1,17 @@
+.navMenu{
+    margin: 0 auto;
+
+}
+.image1{
+    backface-visibility: visible;
+}
+.div1{
+    text-align: center;
+    box-shadow: gray;
+    padding: 5px;
+    box-sizing: border-box;
+    border: 3px rgb(58, 226, 190);
+    color: blue;
+    background-color:white;
+}
+
